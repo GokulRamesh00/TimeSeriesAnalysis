@@ -1,5 +1,3 @@
-# README: Time Series Analysis (TSA)
-
 ## Project Title: Time Series Analysis & Forecasting of Airline Passengers  
 **Dataset:** international-airline-passengers.csv  
 **Objective:** To forecast airline passenger count using different time series models and determine the best approach based on statistical evaluation metrics.
